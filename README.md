@@ -1,0 +1,1 @@
+The algorithm starts with a search range defined by low and high. It calculates the middle index (mid) and compares the value at that index with the target. Based on the comparison, it updates the search range until the target is found or the search range becomes empty.
